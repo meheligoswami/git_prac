@@ -1,2 +1,3 @@
 # git_prac
-this is my repository
+This is my repository for VSP
+
